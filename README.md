@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Erickgsa
 - 👀 I’m interested in  aprender a progamar, para ser um "DEV"
 - 🌱 I’m currently learning Java , React, React Native,  SQL 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me erickgsa999@gmail.com
 
 <!---
